@@ -1,0 +1,25 @@
+{    
+	"Traits":[
+        "Speed not reduced wearing Heavy Armor",
+        "Stonecunning: Proficient in the History skill for Intelligence (History) checks related to the origin of stonework: add double proficiency bonus.",
+		"Advantage on Saving Throws related to poison damage"
+    ],
+    "Proficiencies":[
+        "Darkvision (60 feet): Shades of grey in dim light as if it were bright light, and in darkness as if it were dim light."
+    ],
+	"Tool Proficiency Count" : 1,
+    "Tool Proficiency Choices":[
+        "Smith's Tools",
+        "Brewer's Tools",
+        "Mason's Tools"
+    ],
+    "Weapon Proficiencies":[
+        "Battleaxe",
+        "Handaxe",
+        "Light Hammer",
+        "Warhammer"
+    ],
+    "Resistance":[
+        "Poison"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+	"Subrace Id":"",
+	"Subrace Name":"Hill Dwarves",
+	"Ability Score Increase": "Wisdom | 1",
+	"Traits": [
+		"Dwarven Toughness: Hit point maximum increases by 1 every character level."
+	]
+}
+{
+	"Subrace Id":"",
+	"Subrace Name":"Mountain Dwarves",
+	"Ability Score Increase": "Strength | 2",
+	"Traits" : [
+		"Armor Proficiencies | Light Armor, Medium Armor" 
+	]
+}
+{
+	"Subrace Id":"",
+	"Subrace Name":"Duergar Dwarves",
+	"Ability Score Increase": "Strength | 1",
+	"Traits": [
+		"Superior Darkvision: Darkvision has a radius of 120 feet.",
+		"Disadvantage on Wisdom (Perception) checks relying on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
+		"Level 3 | Cast the enlarge/reduce spell on yourself once every long rest, using only the spell’s enlarge option, without material components. You cannot cast this while in direct sunlight, though sunlight has no effect once cast. Intelligence is your spellcasting ability.",
+		"Level 5 | Cast the invisibility spell on yourself once every long rest, without material components. You cannot cast this while in direct sunlight, though sunlight has no effect once cast. Intelligence is your spellcasting ability.",
+		"Advantage on Saving Throws against Illusions",
+		"Advantage on Saving Throws against being Charmed",
+		"Advantage on Saving Throws against being Paralyzed"
+	],
+	"Languages":[
+		"Undercommon"
+	]
+}

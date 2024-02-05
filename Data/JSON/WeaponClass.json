@@ -1,0 +1,220 @@
+{
+    "WeaponClass":[
+        {
+			"Name":"Club",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d4 Bludgeoning"
+        },
+        {
+            "Name":"Dagger",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d4 Piercing"
+        },
+        {
+            "Name":"Greatclub",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d8 Bludgeoning"
+        },
+        {
+            "Name":"Handaxe",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d6 Slashing"
+        },
+        {
+            "Name":"Javelin",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d6 Piercing"
+        },
+        {
+            "Name":"Light Hammer",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d4 Bludgeoning"
+        },
+        {
+            "Name":"Mace",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d6 Bludgeoning"
+        },
+        {
+            "Name":"Quarterstaff",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d6 Bludgeoning"
+        },
+        {
+            "Name":"Sickle",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d4 Slashing"
+        },
+        {
+            "Name":"Spear",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d6 Piercing"
+        },
+        {
+            "Name":"Light Crossbow",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d8 Piercing"
+        },
+        {
+            "Name":"Dart",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d4 Piercing"
+        },
+        {
+            "Name":"Shortbow",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d6 Piercing"
+        },
+        {
+            "Name":"Sling",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Simple",
+            "Damage":"1d4 Bludgeoning"
+        },
+        {
+            "Name":"Battleaxe",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Slashing"
+        },
+        {
+            "Name":"Flail",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Bludgeoning"
+        },
+        {
+            "Name":"Glaive",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d10 Slashing"
+        },
+        {
+            "Name":"Greataxe",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d12 Slashing"
+        },
+        {
+            "Name":"Greatsword",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"2d6 Slashing"
+        },
+        {
+            "Name":"Halberd",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d10 Slashing"
+        },
+        {
+            "Name":"Lance",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d12 Piercing"
+        },
+        {
+            "Name":"Longsword",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Slashing"
+        },
+        {
+            "Name":"Maul",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"2d6 Bludgeoning"
+        },
+        {
+            "Name":"Morningstar",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Piercing"
+        },
+        {
+            "Name":"Pike",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d10 Piercing"
+        },
+        {
+            "Name":"Rapier",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Piercing"
+        },
+        {
+            "Name":"Scimitar",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d6 Slashing"
+        },
+        {
+            "Name":"Shortsword",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d6 Piercing"
+        },
+        {
+            "Name":"Trident",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d6 Piercing"
+        },
+        {
+            "Name":"War Pick",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Piercing"
+        },
+        {
+            "Name":"Warhammer",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Bludgeoning"
+        },
+        {
+            "Name":"Whip",
+            "Classification":"Melee",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d4 Slashing"
+        },
+        {
+            "Name":"Blowgun",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1 Piercing"
+        },
+        {
+            "Name":"Hand Crossbow",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d6 Piercing"
+        },
+        {
+            "Name":"Heavy Crossbow",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d10 Piercing"
+        },
+        {
+            "Name":"Longbow",
+            "Classification":"Ranged",
+            "ProficiencyLevel":"Martial",
+            "Damage":"1d8 Piercing"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+db.runCommand({whatsmyuri : 1}) to see what port your on
+
+Get out of all instances of Mongo before attempting import
+
+
+
+
+Alignment
+mongoimport --db CharacterGenerator --collection Alignment --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Alignment.json"
+
+ArmorClass
+mongoimport --db CharacterGenerator --collection ArmorClass --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\ArmorClass.json"
+
+Backgrounds
+mongoimport --db CharacterGenerator --collection Backgrounds --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Backgrounds.json"
+
+BaseClass
+mongoimport --db CharacterGenerator --collection BaseClass --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\ArtificerBaseClass.json"
+
+BaseRace
+mongoimport --db CharacterGenerator --collection BaseRace --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\DragonbornBaseRace.json"
+mongoimport --db CharacterGenerator --collection BaseRace --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\DwarfBaseRace.json"
+
+Colors
+mongoimport --db CharacterGenerator --collection Colors --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Colors.json"
+
+Deities
+mongoimport --db CharacterGenerator --collection Deities --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Deities.json"
+
+DragonAncestry
+mongoimport --db CharacterGenerator --collection DragonAncestry --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\DragonAncestry.json"
+
+Dwarf
+mongoimport --db CharacterGenerator --collection Dwarf --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Dwarf.json"
+
+Equipment
+mongoimport --db CharacterGenerator --collection Equipment --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Equipment.json"
+
+Languages
+mongoimport --db CharacterGenerator --collection Languages --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Languages.json"
+
+LevelDetails
+mongoimport --db CharacterGenerator --collection LevelDetails --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\ArtificerLevels.json"
+
+RacialNames
+mongoimport --db CharacterGenerator --collection RacialNames --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\RacialNames.json"
+
+SpellCaster
+mongoimport --db CharacterGenerator --collection SpellCaster --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\ArtificerSpellCaster.json"
+
+Spells
+mongoimport --db CharacterGenerator --collection Spells --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\ArtificerSpells.json"
+
+Subraces
+mongoimport --db CharacterGenerator --collection Subraces --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\DwarfSubrace.json"
+
+Tools
+mongoimport --db CharacterGenerator --collection Tools --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\Tools.json"
+
+WeaponClass
+mongoimport --db CharacterGenerator --collection WeaponClass --drop --file "D:\Code\repos\DnD-Character-Generator\BackEnd\data\WeaponClass.json"
+

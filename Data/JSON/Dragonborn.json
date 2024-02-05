@@ -1,0 +1,168 @@
+{
+    "Ability Score Increase":[
+        {
+            "Charisma":1
+        },
+        {
+            "Strength":2
+        }
+    ],
+    "Age":[
+        {
+            "Min":15
+        },
+        {
+            "Max":80
+        }
+    ],
+    "Alignment":[
+        {
+            "1":20
+        },
+        {
+            "2":20
+        },
+        {
+            "3":20
+        },
+        {
+            "4":10
+        },
+        {
+            "5":10
+        },
+        {
+            "6":10
+        },
+        {
+            "7":5
+        },
+        {
+            "8":4
+        },
+        {
+            "9":1
+        }
+    ],
+    "Ancestry":[
+        {
+            "Black":"5 by 30 ft. line (Dex. save)"
+        },
+        {
+            "Blue":"5 by 30 ft. line (Dex. save)"
+        },
+        {
+            "Brass":"5 by 30 ft. line (Dex. save)"
+        },
+        {
+            "Bronze":"5 by 30 ft. line (Dex. save)"
+        },
+        {
+            "Copper":"5 by 30 ft. line (Dex. save)"
+        },
+        {
+            "Gold":"15 ft. cone (Dex. save)"
+        },
+        {
+            "Green":"15 ft. cone (Con. save)"
+        },
+        {
+            "Red":"15 ft. cone (Dex. save)"
+        },
+        {
+            "Silver":"15 ft. cone (Con. save)"
+        },
+        {
+            "White":"15 ft. cone (Con. save)"
+        }
+    ],
+    "Breath Weapon":[
+        {
+            "Difficulty Class":"8 + Constitution Modifier + Proficiency Bonus"
+        },
+        {
+            "Damage":[
+                "Halved on successful save",
+                {
+                    "1..5":"2d6"
+                },
+                {
+                    "6..10":"3d6"
+                },
+                {
+                    "11..15":"4d6"
+                },
+                {
+                    "16..20":"5d6"
+                }
+            ]
+        },
+        "Restored after short or long rest"
+    ],
+    "Color":[
+        {
+            "Black":"Acid"
+        },
+        {
+            "Blue":"Lightning"
+        },
+        {
+            "Brass":"Fire"
+        },
+        {
+            "Bronze":"Lightning"
+        },
+        {
+            "Copper":"Acid"
+        },
+        {
+            "Gold":"Fire"
+        },
+        {
+            "Green":"Poison"
+        },
+        {
+            "Red":"Fire"
+        },
+        {
+            "Silver":"Cold"
+        },
+        {
+            "White":"Cold"
+        }
+    ],
+    "Languages":[
+        "Draconic",
+        "Common"
+    ],
+    "Notes":[
+        ""
+    ],
+    "Resistance":[
+        "Based on color"
+    ],
+    "Size":[
+        {
+            "Height":[
+                {
+                    "Min":70
+                },
+                {
+                    "Max":80
+                }
+            ]
+        },
+        {
+            "Weight":[
+                {
+                    "Min":200
+                },
+                {
+                    "Max":250
+                }
+            ]
+        },
+        "Medium"
+    ],
+    "Speed":30
+}

@@ -1,0 +1,401 @@
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":1,
+	"Features":[
+		"Spellcasting": "To use this ability, you must have thieves’ tools or some kind of artisan’s tools in hand. You must be proficient in the tool to use it in this way. Starting at level 2, you can also use any item bearing one of your infusions as a spellcasting focus. When you gain a class level, you can replace one known cantrip with another cantrip from the artificer spell list. You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.",
+		"Magical Tinkering": "To use this ability, you must have thieves’ tools or artisan’s tools in hand. You touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice: The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet. Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object The recording can be no more than 6 seconds long. The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like), perceivable up to 10 feet away. A static visual effect appears on one of the object’s surfaces (a picture, up to 25 words of text, lines and shapes, or a mixture of these elements) The chosen property lasts indefinitely. As an action, you can touch the object and end the property early. You can bestow magic on any number of objects up to your Intelligence modifier (minimum 1 object), touching one object each time you use this feature. If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies. A single object can only bear one property at a time."
+	],
+	"Infusions":[
+		"Infusions Known"": 0,
+		"Infused Items"": 0
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Slot1": 2,
+		"Slot2": 0,
+		"Slot3": 0,
+		"Slot4": 0,
+		"Slot5": 0
+	]
+}
+{
+	"Level":2,
+	"Features":[
+		"Infuse Item": "Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one. After every long rest, you can infuse a number of Infused Items" equal to your level's Infused Items". You must touch an object to infuse it, and each of your infusions can be on only one object at a time. If the item requires attunement, you can choose to attune yourself to it the instant you infuse the item. If you choose to attune to the item later, you must use the normal attunement process. Your infusion remains on the item indefinitely When you die, the infusion vanishes after a number of days equal to your intelligence modifier. The infusion also vanishes if you give up your knowledge of the infusion for another one."
+	],
+	"Infusions":[
+		"Infusions Known": 4,
+		"Infused Items": 2
+	],
+	"Spell Slots":[
+		"Cantrips":  2,
+		"Spell Slot1":  2,
+		"Spell Slot2":  0,
+		"Spell Slot3":  0,
+		"Spell Slot4":  0,
+		"Spell Slot5":  0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":3,
+	"Features":[
+		"Artificer Specialist":"",
+		"The Right Tool for the Job":""
+	],
+	"Infusions":[
+		"Infusions Known": 4,
+		"Infused Items": 2
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Spell Slot1": 3,
+		"Spell Slot2": 0,
+		"Spell Slot3": 0,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":4,
+	"Features":[
+		"Ability Score Improvement": ""
+	],
+	"Infusions":[
+		"Infusions Known": 4,
+		"Infused Items": 2
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Spell Slot1": 3,
+		"Spell Slot2": 0,
+		"Spell Slot3": 0,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":5,
+	"Features":[
+		"Tool Expertise"
+	],
+	"Infusions":[
+		"Infusions Known": 4,
+		"Infused Items": 2
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Spell Slot1": 4,
+		"Spell Slot2": 2,
+		"Spell Slot3": 0,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":6,
+	"Features":[
+		"Flash of Genius"
+	],
+	"Infusions":[
+		"Infusions Known": 6,
+		"Infused Items": 3
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Spell Slot1": 4,
+		"Spell Slot2": 2,
+		"Spell Slot3": 0,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":7,
+	"Features":[
+		"Ability Score Improvement"
+	],
+	"Infusions":[
+		"Infusions Known": 6,
+		"Infused Items": 3
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 0,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":8,
+	"Features":[
+		"Spellcasting",
+		"Magical Tinkering"
+	],
+	"Infusions":[
+		"Infusions Known": 6,
+		"Infused Items": 3
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 0,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":9,
+	"Features":[
+		"Artificer Specialist feature"
+	],
+	"Infusions":[
+		"Infusions Known": 6,
+		"Infused Items": 3
+	],
+	"Spell Slots":[
+		"Cantrips": 2,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 2,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":10,
+	"Features":[
+		"Magic Item Adept"
+	],
+	"Infusions":[
+		"Infusions Known": 8,
+		"Infused Items": 4
+	],
+	"Spell Slots":[
+		"Cantrips": 3,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 2,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":11,
+	"Features":[
+		"Spell-Storing Item"
+	],
+	"Infusions":[
+		"Infusions Known": 8,
+		"Infused Items": 4
+	],
+	"Spell Slots":[
+		"Cantrips": 3,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":12,
+	"Features":[
+		"Ability Score Improvement"
+	],
+	"Infusions":[
+		"Infusions Known": 8,
+		"Infused Items": 4
+	],
+	"Spell Slots":[
+		"Cantrips": 3,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 0,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":13,
+	"Features":[
+		
+	],
+	"Infusions":[
+		"Infusions Known": 8,
+		"Infused Items": 4
+	],
+	"Spell Slots":[
+		"Cantrips": 3,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 1",
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":14,
+	"Features":[
+		"Magic Item Savant"
+	],
+	"Infusions":[
+		"Infusions Known": 10,
+		"Infused Items": 5
+	],
+	"Spell Slots":[
+		"Cantrips": 4,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 1,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":15,
+	"Features":[
+		"Artificer Specialist feature"
+	],
+	"Infusions":[
+		"Infusions Known": 10,
+		"Infused Items": 5
+	],
+	"Spell Slots":[
+		"Cantrips": 4,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 2,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":16,
+	"Features":[
+		"Ability Score Improvement"
+	],
+	"Infusions":[
+		"Infusions Known": 10,
+		"Infused Items": 5
+	],
+	"Spell Slots":[
+		"Cantrips": 4,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 2,
+		"Spell Slot5": 0
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":17,
+	"Features":[
+		
+	],
+	"Infusions":[
+		"Infusions Known": 10,
+		"Infused Items": 5
+	],
+	"Spell Slots":[
+		"Cantrips": 4,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 3,
+		"Spell Slot5": 1
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":18,
+	"Features":[
+		"Magic Item Master"
+	],
+	"Infusions":[
+		"Infusions Known": 12,
+		"Infused Items": 6
+	],
+	"Spell Slots":[
+		"Cantrips": 4,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 3,
+		"Spell Slot5": 1
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":19,
+	"Features":[
+		"Ability Score Improvement"
+	],
+	"Infusions":[
+		"Infusions Known": 12,
+		"Infused Items": 6
+	],
+	"Spell Slots":[
+		"Cantrips": 4,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 3,
+		"Spell Slot5": 2
+	]
+}
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Level":20,
+	"Features":[
+		"Soul of Artifice"
+	],
+	"Infusions":[
+		"Infusions Known": 12,
+		"Infused Items": 6
+	],
+	"Spell Slots":[
+		"Cantrips": 4,
+		"Spell Slot1": 4,
+		"Spell Slot2": 3,
+		"Spell Slot3": 3,
+		"Spell Slot4": 3,
+		"Spell Slot5": 2
+	]
+}

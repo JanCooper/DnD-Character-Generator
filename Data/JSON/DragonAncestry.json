@@ -1,0 +1,210 @@
+{
+	"Color":"Black",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"5 by 30 ft. line"
+		},
+		{
+			"Damage Type":"Acid"
+		},
+		{
+			"Save":"Dexterity"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Acid"
+}
+{
+	"Color":"Blue",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"5 by 30 ft. line"
+		},
+		{
+			"Damage Type":"Lightning"
+		},
+		{
+			"Save":"Dexterity"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Lightning"
+}
+{
+	"Color":"Brass",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"5 by 30 ft. line"
+		},
+		{
+			"Damage Type":"Fire"
+		},
+		{
+			"Save":"Dexterity"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Fire"
+}
+{
+	"Color":"Bronze",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"5 by 30 ft. line"
+		},
+		{
+			"Damage Type":"Lightning"
+		},
+		{
+			"Save":"Dexterity"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Lightning"
+}
+{
+	"Color":"Copper",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"5 by 30 ft. line"
+		},
+		{
+			"Damage Type":"Acid"
+		},
+		{
+			"Save":"Dexterity"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Acid"
+}
+{
+	"Color":"Gold",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"15 ft. cone"
+		},
+		{
+			"Damage Type":"Fire"
+		},
+		{
+			"Save":"Dexterity"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Fire"
+}
+{
+	"Color":"Green",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"15 ft. cone"
+		},
+		{
+			"Damage Type":"Poison"
+		},
+		{
+			"Save":"Constitution"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Poison"
+}
+{
+	"Color":"Red",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"15 ft. cone"
+		},
+		{
+			"Damage Type":"Fire"
+		},
+		{
+			"Save":"Dexterity"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Fire"
+}
+{
+	"Color":"Silver",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"15 ft. cone"
+		},
+		{
+			"Damage Type":"Cold"
+		},
+		{
+			"Save":"Constitution"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Cold"
+}
+{
+	"Color":"White",
+	"Breath Weapon":[
+		{
+			"Area Of Effect":"15 ft. cone"
+		},
+		{
+			"Damage Type":"Cold"
+		},
+		{
+			"Save":"Constitution"
+		},
+		{
+			"Successful Save":"Damage halved."
+		},
+		{
+			"Use":"Once every short rest."
+		}
+	],
+	"Resistance":"Cold"
+}

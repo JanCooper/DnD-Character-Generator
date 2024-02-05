@@ -1,0 +1,36 @@
+{
+	"Race Id" : "",
+	"Race Name" : "Dwarf",
+	"Ability Score Increase":[
+        "Constitution | 2"
+    ],
+    "Age":[
+        "Min: 50",
+        "Max: 350"
+    ],
+    "Alignment Weights":[
+        "1 | 40",
+        "2 | 10",
+        "3 | 10",
+        "4 | 25",
+        "5 | 5",
+        "6 | 5",
+        "7 | 3",
+        "8 | 2",
+        "9 | 1"
+    ],
+    "Languages":[
+        "Common",
+        "Dwarvish"
+    ],
+    "Height":[
+        "Min: 42",
+        "Max: 54"
+    ],
+    "Weight":[
+        "Min: 100",
+        "Max: 175"
+    ],
+    "Size":"Medium",
+    "Speed":25
+}

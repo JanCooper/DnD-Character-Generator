@@ -1,0 +1,111 @@
+{
+	"Id":"",
+	"Name":"Burglar Pack",
+	"Equipment":[
+		"Backpack",
+		"1,000 Ball Bearings",
+		"10 ft String",
+		"Bell",
+		"5 Candles",
+		"Crowbar",
+		"Hammer",
+		"10 Pitons",
+		"Hooded Lantern",
+		"2 Flasks of Oil",
+		"5 Days Rations",
+		"Tinderbox",
+		"Waterskin",
+		"50 ft Hempen Rope"
+	]
+}
+{
+	"Id":"",
+	"Name":"Diplomat Pack",
+	"Equipment":[
+		"Chest",
+		"2 Map/Scroll Cases",
+		"Set of Fine Clothes",
+		"Bottle of Ink",
+		"Ink Pen",
+		"Lamp",
+		"2 Flasks of Oil",
+		"5 Sheets of Paper",
+		"Vial of Perfume",
+		"Sealing Wax",
+		"Soap"
+	]
+}
+{
+	"Id":"",
+	"Name":"Dungeoneer Pack",
+	"Equipment":[
+		"Backpack",
+		"Crowbar",
+		"Hammer",
+		"10 Pitons",
+		"10 Torches",
+		"Tinderbox",
+		"10 Days Rations",
+		"Waterskin",
+		"50 ft Hempen Rope"
+	]
+}
+{
+	"Id":"",
+	"Name":"Entertainer Pack",
+	"Equipment":[
+		"Backpack",
+		"Bedroll",
+		"2 Costumes",
+		"5 Candles",
+		"5 Days Rations",
+		"Waterskin",
+		"Disguise Kit"
+	]
+}
+{
+	"Id":"",
+	"Name":"Explorer Pack",
+	"Equipment":[
+		"Backpack",
+		"Bedroll",
+		"Mess Kit",
+		"10 Torches",
+		"Tinderbox",
+		"10 Days Rations",
+		"Waterskin",
+		"50 ft Hempen Rope"
+	]
+}
+{
+	"Id":"",
+	"Name":"Priest Pack",
+	"Equipment":[
+		"Backpack",
+		"Blanket",
+		"10 Candles",
+		"Tinderbox",
+		"Alms Box",
+		"2 Blocks Incense",
+		"Censer",
+		"Vestments",
+		"2 Days Rations",
+		"Waterskin"
+	]
+}
+{
+	"Id":"",
+	"Name":"Scholar Pack",
+	"Equipment":[
+		"Backpack",
+		"Book of Lore",
+		"Bottle of Ink",
+		"Ink Pen",
+		"10 Sheets of Parchment",
+		"10 Torches",
+		"Tinderbox",
+		"Little Bag of Sand",
+		"Small Knife"
+	]
+
+}

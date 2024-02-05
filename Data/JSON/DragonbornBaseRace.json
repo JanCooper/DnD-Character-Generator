@@ -1,0 +1,37 @@
+{
+	"Race Id" : "",
+	"Race Name" : "Dragonborn",
+    "Ability Score Increase":[
+        "Charisma": 1,
+        "Strength": 2
+    ],
+    "AgeRange":[
+        "Min": 15,
+        "Max": 80
+    ],
+    "Alignment Weights":[
+        "1": 20,
+        "2": 20,
+        "3": 20,
+        "4": 10,
+        "5": 10,
+        "6": 10,
+        "7": 5,
+        "8": 4,
+        "9": 1
+    ],
+    "Languages":[
+        "Draconic",
+        "Common"
+    ],
+    "HeightRange":[
+        "Min": 70,
+        "Max": 80
+    ],
+    "WeightRange":[
+        "Min": 200,
+        "Max": 250
+    ],
+    "Size":"Medium",
+    "Speed":30
+}

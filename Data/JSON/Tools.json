@@ -1,0 +1,63 @@
+{
+    "Artisan":[
+        "Alchemist’s Tools",
+        "Brewer’s Tools",
+        "Calligrapher’s Tools",
+        "Carpenter’s Tools",
+        "Cartographer’s Tools",
+        "Cobbler’s Tools",
+        "Cook’s Utensils",
+        "Disguise Kit",
+        "Forgery Kit",
+        "Glassblower’s Tools",
+        "Herbalism Kit",
+        "Jeweler’s Tools",
+        "Leatherworker’s Tools",
+        "Mason’s Tool",
+        "Navigator’s Tools",
+        "Painter’s Tools",
+        "Poisoner’s Kit",
+        "Potter’s Tools",
+        "Smith’s Tools",
+        "Thieve’s Tools",
+        "Tinker’s Tools",
+        "Weaver’s Tools",
+        "Woodcarver’s Tools"
+    ],
+    "Gaming Set":[
+        "Dice set",
+        "Dragonchess set",
+        "Playing card set",
+        "Three-Dragon Ante set"
+    ],
+    "Musical Instruments":[
+        "Bagpipes",
+        "Drum",
+        "Dulcimer",
+        "Flute",
+        "Lute",
+        "Lyre",
+        "Horn",
+        "Pan flute",
+        "Shawm",
+        "Viol"
+    ],
+    "Land Vehicle":[
+        "Camel",
+        "Donkey or mule",
+        "Draft horse",
+        "Elephant",
+        "Mastiff",
+        "Pony",
+        "Riding horse",
+        "Warhorse"
+    ],
+    "Water Vehicle":[
+        "Galley",
+        "Keelboat",
+        "Longship",
+        "Rowboat",
+        "Sailing ship",
+        "Warship"
+    ]
+}

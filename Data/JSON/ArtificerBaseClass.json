@@ -1,0 +1,45 @@
+{
+	"PlayerClassId":"",
+	"Class Name" : "Artificer",
+	"IsSpellcaster": true,
+    "Equipment":[
+        "Weapons: 2 | Simple",
+        "Light Crossbow and 20 Bolts",
+        "Studded Leather Armor -OR- Scale Mail",
+        "Thieves' Tools",
+        "Dungeoneer's Pack"
+    ],
+    "Key Abilities":[
+        "Intelligence",
+        "Constitution",
+        "Dexterity"
+    ],
+	"Hit Dice": "1d8",
+    "Armor Proficiencies":[
+        "Light",
+        "Medium",
+        "Shields"
+    ],
+    "Tool Proficiencies":[
+        "Thieves' Tools",
+        "Tinker's Tools",
+        "Choose: 1 | Artisan's Tools"
+    ],
+    "Weapon Proficiencies":[
+        "Simple"
+    ],
+    "Saving Throws":[
+        "+Constitution",
+        "+Intelligence"
+    ],
+    "Skill Choice Count":2,
+    "Skill Choices":[
+        "Arcana",
+        "History",
+        "Investigation",
+        "Medicine",
+        "Nature",
+        "Perception",
+        "Sleight of Hand"
+    ] 
+}

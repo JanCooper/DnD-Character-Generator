@@ -1,0 +1,27 @@
+{
+	"Lawful Good":"Crusader: Acts as a good person is expected or required to act. Tells the truth, keeps his word, helps those in need, and speaks out against injustice. Hates to see the guilty go unpunished."
+}
+{
+	"Neutral Good":"Benefactor: Does the best a good person can do. Devoted to helping others. Works with but not beholden to kings and magistrates."
+}
+{
+	"Chaotic Good":"Rebel: Acts on conscience with little regard for what others expect. Kind and benevolent but makes his own way. Believes in goodness and right but has little use for laws and regulations. Hates when people try to intimidate others and tell them what to do. Follows his own moral compass, which may or may not agree with that of society."
+}
+{
+	"Lawful Neutral":"Judge: Acts as law, tradition, or a personal code directs. Order and organization are paramount. May believe in personal order and live by a code or standard, or may believe in order for all and favor a strong, organized government."
+}
+{
+	"True Neutral":"Undecided: Does what seems to be a good idea at the time. Doesn't feel strongly one way or the other when it comes to good vs. evil or law vs. chaos. Usually exhibits a lack of conviction or bias rather than a commitment to neutrality. May think of good as better than evil (would rather have good neighbors and rulers than evil ones) but is not personally committed to upholding good in any abstract or universal way. On the other hand, may commit themselves philosophically to neutrality, seeing good, evil, law, and chaos as prejudices and dangerous extremes and advocate the middle way of neutrality as the best, most balanced road in the long run."
+}
+{
+	"Chaotic Neutral":"Free Spirit: Follows whims. And individual first and last. Values own liberty but doesn't strive to protect others' freedom. Avoids authority, resents restrictions, and challenges traditions. Does not intentially disrupt organizations as part of a campaign of anarchy. Unpredictable, but not totally random."
+}
+{
+	"Lawful Evil":"Dominator: Methodically takes what he wants wihtin the limits of his code of conduct, without regard for whom it hurts. Cares about tradition, loyalty, and order but not about freedom, dignity, or life. Plays by the rules but without mercy or compassion. Comfortable in a hierarchy and would like to rule, but is willing to serve. Condemns others not according to their actions but according to race, religion, homeland, or social rank. Loath to break laws or promises, partly by nature and partly due to dependence on order to protect from those who oppose him on moral grounds. May have particular taboos, such as not killing in cold blood (but having underlings do it) or not letting children come to harm (if it can be helped). If so, they imagine these compunctions put them above unprincipled villains. May commit to evil with a zeal like that of a crusader committed to good, willing to hurt others for their own ends, taking pleasure in spreading evil as an end unto itself. They may also see doing evil as part of a duty to an evil deity or master."
+}
+{
+	"Neutral Evil":"Malefactor: Does whatever she can get away with. Out for herself. Sheds no tears for those she kills. Has no love of order. Holds no illusion following laws, traditions, or codes would make her better or more noble. Doesn't have the restless nature or love of conflict that a chaotic evil villain has. Some neutral evil villains hold evil as an ideal, committing evil for its own sake. Most often, such villains are devoted to evil deities or secret societies."
+}
+{
+	"Chaotic Evil":"Destroyer: Does whatever greed, hatred, and lust for destruction drive him to do. Hot-tempered, vicious, arbitrarily violent, and unpredictable. If he is simply out for whatever he can get, he is ruthless and brutal. If he is committed to the spread of evil and chaos, he is even worse. Plans are haphazard, and any groups he joins or forms are poorly organized. Typically can be made to work together only by force, and their leader lasts only as long as he can thwart attempts to topple or assassinate him. Demons are the epitome of chaotic evil."
+}

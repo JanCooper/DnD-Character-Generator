@@ -1,0 +1,19 @@
+{
+	"Id":"",
+	"ClassName":"Artificer",
+	"Spells Per Day":[
+		"Intelligence Modifier",
+		"1/2 character level (rounded down)"
+	],
+	"Spellcasting Ability":"Intelligence",
+	"Spell Save DC":[
+		"Base: 8",
+		"Proficiency Bonus",
+		"Intelligence Modifier"
+	],
+	"Spell Attack Modifier":[
+		"Proficiency Bonus",
+		"Intelligence Modifier"
+	],
+	"Ritual Casting":"You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared."
+}

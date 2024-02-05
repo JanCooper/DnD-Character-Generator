@@ -1,0 +1,43 @@
+{
+    "Races":[
+        "Dragonborn",
+        "Dwarf",
+        "Elf",
+        "Gnome",
+        "HalfElf",
+        "Halfling",
+        "HalfOrc",
+        "Human",
+        "Tiefling"
+    ],
+    "Classes":[
+        "Barbarian",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Fighter",
+        "Monk",
+        "Paladin",
+        "Ranger",
+        "Rogue",
+        "Sorcerer",
+        "Warlock",
+        "Wizard",
+        "BloodHunter"
+    ],
+    "Backgrounds":[
+        "Acolyte",
+        "Criminal",
+        "Charlatan",
+        "Entertainer",
+        "Folk Hero",
+        "Guild Artisan",
+        "Hermit",
+        "Noble",
+        "Outlander",
+        "Sage",
+        "Sailor",
+        "Soldier",
+        "Urchin"
+    ]
+}

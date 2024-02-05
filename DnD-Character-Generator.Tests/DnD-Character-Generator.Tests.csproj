@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <RootNamespace>DnD_Character_Generator.Tests</RootNamespace>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.16.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NUnit" Version="3.13.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\src\DnD-Character-Generator.Contracts\DnD-Character-Generator.Contracts.csproj" />
+    <ProjectReference Include="..\src\DnD-Character-Generator.Entities\DnD-Character-Generator.Entities.csproj" />
+    <ProjectReference Include="..\src\DnD-Character-Generator.MongoRepository\DnD-Character-Generator.MongoRepository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="MongoRepositoryTests\" />
+  </ItemGroup>
+
+</Project>

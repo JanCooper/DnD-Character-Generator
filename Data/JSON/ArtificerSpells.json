@@ -1,0 +1,809 @@
+{
+	"SpellName":"Acid Splash",
+	"Level":"Cantrip",
+	"Casting Time":"Action",
+	"RangeArea":"60 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"Instantaneous",
+	"School":"Conjuration",
+	"AttackOrSave":"Dex Save",
+	"DamageOrEffect":"Acid",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You hurl a bubble of acid. Choose one or two creatures you can see within range. If you choose two, they must be within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage. This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+}
+{
+	"SpellName":"Dancing Lights",
+	"Level":"Cantrip",
+	"Casting Time":"Action",
+	"RangeOrArea":"120 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A bit of phosphorus or wychwood, or a glowworm"
+	],
+	"Duration":"1 Minute",
+	"School":"Evocation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Utility",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius. As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range."
+}
+{
+	"SpellName":"Fire Bolt",
+	"Level":"Cantrip",
+	"Casting Time":"Action",
+	"RangeOrArea":"120 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"Instantaneous",
+	"School":"Evocation",
+	"AttackOrSave":"Ranged",
+	"DamageOrEffect":"Fire",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried. This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+}
+{
+	"SpellName":"Guidance",
+	"Level":"Cantrip",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"1 Minute",
+	"School":"Divination",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends."
+}
+{
+	"SpellName":"Alarm",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"1 Minute",
+	"RangeOrArea":"30 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A tiny bell and a piece of fine silver wire"
+	],
+	"Duration":"8 Hours",
+	"School":"Abjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Detection",
+	"Ritual":"Yes",
+	"Concentration":"No",
+	"Description":"You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible. A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet."
+}
+{
+	"SpellName":"Cure Wounds",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"Instantaneous",
+	"School":"Evocation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Healing",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st."
+}
+{
+	"SpellName":"Detect Magic",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Action",
+	"RangeOrArea":"Self (30 ft Sphere)",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"10 Minutes",
+	"School":"Divination",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Detection",
+	"Ritual":"Yes",
+	"Concentration":"Yes",
+	"Description":"For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+}
+{
+	"SpellName":"Disguise Self",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Action",
+	"RangeOrArea":"Self",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"1 Hour",
+	"School":"Illusion",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Shapechanging",
+	"Ritual":"Yes",
+	"Concentration":"Yes",
+	"Description":"You make yourself--including your clothing, armor, weapons, and other belongings on your person--look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC."
+}
+{
+	"SpellName":"Expeditious Retreat",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Bonus Action",
+	"RangeOrArea":"Self",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"10 Minutes",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Movement",
+	"Ritual":"Yes",
+	"Concentration":"Yes",
+	"Description":"This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action."
+}
+{
+	"SpellName":"Faerie Fire",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Action",
+	"RangeOrArea":"60 ft (20 ft Cube)",
+	"Components":[
+		"Verbal"
+	],
+	"Duration":"1 Minute",
+	"School":"Evocation",
+	"AttackOrSave":"DEX Save",
+	"DamageOrEffect":"Debuff",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible."
+}
+{
+	"SpellName":"False Life",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Action",
+	"RangeOrArea":"Self",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material:A small amount of alcohol or distilled spirits"
+	],
+	"Duration":"1 Hour",
+	"School":"Necromancy",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st."
+}
+{
+	"SpellName":"Feather Fall",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Reaction you take when you or a creature within 60 feet of you falls",
+	"RangeOrArea":"60 ft.",
+	"Components":[
+		"Verbal",
+		"Material:A small feather or piece of down"
+	],
+	"Duration":"1 Minute",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Exploration",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature."
+}
+{
+	"SpellName":"Grease",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Action",
+	"RangeOrArea":"60 ft. (10 ft. Square)",
+	"Components":[
+		"Verbal",
+		"Somatic",
+		"Material:A bit of pork rind or butter"
+	],
+	"Duration":"1 Minute",
+	"School":"Conjuration",
+	"AttackOrSave":"DEX Save",
+	"DamageOrEffect":"Prone",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration. When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone."
+}
+{
+	"SpellName":"Identify",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"1 Minute",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Verbal",
+		"Somatic",
+		"Material:A pearl worth at least 100 gp and an owl feather"
+	],
+	"Duration":"Instantaneous",
+	"School":"Divination",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Detection",
+	"Ritual":"Yes",
+	"Concentration":"No",
+	"Description":"You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it."
+}
+{
+	"SpellName":"Jump",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"First",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Verbal",
+		"Somatic",
+		"Material:A grasshopper's hind leg"
+	],
+	"Duration":"1 Minute",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Movement",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You touch a creature. The creature's jump distance is tripled until the spell ends."
+}
+{
+	"SpellName":"Aid",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"30 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A tiny strip of white cloth"
+	],
+	"Duration":"8 Hours",
+	"School":"Abjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration. When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd."
+}
+{
+	"SpellName":"Alter Self",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"Self",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"1 Hour",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Shapechanging",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one. Aquatic Adaptation: You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed. Change Appearance: You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again. Natural Weapons: You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it."
+}
+{
+	"SpellName":"Arcane Lock",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: Gold dust worth at least 25 gp, which the spell consumes"
+	],
+	"Duration":"Until Dispelled",
+	"School":"Abjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Utility",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes. While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10."
+}
+{
+	"SpellName":"Blur",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"Self",
+	"Components":[
+		"Verbal"
+	],
+	"Duration":"1 Minute",
+	"School":"Illusion",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Deception",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight."
+}
+{
+	"SpellName":"Continual Flame",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: Ruby dust worth 50 gp, which the spell consumes"
+	],
+	"Duration":"Until Dispelled",
+	"School":"Evocation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Creation",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched."
+}
+{
+	"SpellName":"Darkvision",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: Either a pinch of dried carrot or an agate"
+	],
+	"Duration":"8 Hours",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet."
+}
+{
+	"SpellName":"Enhance Ability",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: Fur or a feather from a beast"
+	],
+	"Duration":"1 Hour",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends. Bear's Endurance: The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends. Bull's Strength: The target has advantage on Strength checks, and his or her carrying capacity doubles. Cat's Grace: The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated. Eagle's Splendor: The target has advantage on Charisma checks. Fox's Cunning: The target has advantage on Intelligence checks. Owl's Wisdom: The target has advantage on Wisdom checks. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+}
+{
+	"SpellName":"Enlarge/Reduce",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"30 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material:A pinch of powdered iron"
+	],
+	"Duration":"1 Minute",
+	"School":"Transmutation",
+	"AttackOrSave":"CON Save",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect. If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once. Enlarge: The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category-- from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage. Reduce: The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category--from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1)."
+}
+{
+	"SpellName":"Heat Metal",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"60 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material:A piece of iron and a flame"
+	],
+	"Duration":"1 Minute",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Fire",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again. If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
+}
+{
+	"SpellName":"Invisibility",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Second",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material:An eyelash encased in gum arabic"
+	],
+	"Duration":"1 Hour",
+	"School":"Illusion",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Invisible",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+}
+{
+	"SpellName":"Blink",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Third",
+	"Casting Time":"Action",
+	"RangeOrArea":"Self",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"1 Minute",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Utility",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action. While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so."
+}
+{
+	"SpellName":"Create Food and Water",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Third",
+	"Casting Time":"Action",
+	"RangeOrArea":"30 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"Instantaneous",
+	"School":"Conjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Creation",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad."
+}
+{
+	"SpellName":"Dispel Magic",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Third",
+	"Casting Time":"Action",
+	"RangeOrArea":"120 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"Instantaneous",
+	"School":"Abjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Control",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends. When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used."
+}
+{
+	"SpellName":"Elemental Weapon",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Third",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"1 Hour",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Acid",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"A nonmagical weapon you touch becomes a magic weapon.Choose one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits. When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4."
+}
+{
+	"SpellName":"Fly",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Third",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A wing feather from any bird"
+	],
+	"Duration":"10 Minutes",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Movement",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd."
+}
+{
+	"SpellName":"Glyph of Warding",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Third",
+	"Casting Time":"1 Hour",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: Incense and powdered diamond worth at least 200 gp, which the spell consumes"
+	],
+	"Duration":"Until Dispelled or Triggered",
+	"School":"Abjuration",
+	"AttackOrSave":"DEX Save",
+	"DamageOrEffect":"Acid",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"When you cast this spell, you inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered. The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found. You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends. You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password. When you inscribe the glyph, choose explosive runes or a spell glyph. Explosive Runes: When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one. Spell Glyph: You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration. When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by 1d8 for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding."
+}
+{
+	"SpellName":"Haste",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Third",
+	"Casting Time":"Action",
+	"RangeOrArea":"30 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A shaving of licorice root"
+	],
+	"Duration":"1 Minute",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action. When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it."
+}
+{
+	"SpellName":"Arcane Eye",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fourth",
+	"Casting Time":"Action",
+	"RangeOrArea":"30 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A bit of bat fur"
+	],
+	"Duration":"1 Hour",
+	"School":"Divination",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Detection",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction. As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter."
+}
+{
+	"SpellName":"Fabricate",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fourth",
+	"Casting Time":"10 Minutes",
+	"RangeOrArea":"120 ft Cube",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"Instantaneous",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Creation",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool. Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials. Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects."
+}
+{
+	"SpellName":"Freedom of Movement",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fourth",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A leather strap, bound around the arm or a similar appendage"
+	],
+	"Duration":"1 Hour",
+	"School":"Abjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Buff",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You touch a willing creature. For the duration, the target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained. The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target's movement or attacks."
+}
+{
+	"SpellName":"Leomund's Secret Chest",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fourth",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: An exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp"
+	],
+	"Duration":"Instantaneous",
+	"School":"Conjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Utility",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet). While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica. After 60 days, there is a cumulative 5 percent chance per day that the spell’s effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost."
+}
+{
+	"SpellName":"Animate Objects",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fifth",
+	"Casting Time":"Action",
+	"RangeOrArea":"120 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal"
+	],
+	"Duration":"1 Minute",
+	"School":"Transmutation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Creation",
+	"Ritual":"Yes",
+	"Concentration":"Yes",
+	"Description":"Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points. As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete. Animated Object Statistics: Tiny | 20HP | 18AC | 4 Strength | 18 Dex | +8 to hit | 1d4 + 4 damage]Small | 25HP | 16AC | 6 Strength | 14 Dex | +6 to hit | 1d8 + 2 damage]Medium | 40HP | 13AC | 10 Strength | 12 Dex | +5 to hit | 2d6 + 1 damage]Large | 50HP | 10AC | 14 Strength | 10 Dex | +6 to hit | 2d10 + 2 damage]Huge | 80HP | 10AC | 18 Strength | 6 Dex | +8 to hit | 2d12 + 4 damage]. An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form. If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The GM might rule that a specific object inflicts slashing or piercing damage based on its form. At Higher Levels. If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th."
+}
+{
+	"SpellName":"Bigby's Hand",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fifth",
+	"Casting Time":"Action",
+	"RangeOrArea":"120 ft.",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: An eggshell and a snakeskin glove"
+	],
+	"Duration":"1 Minute",
+	"School":"Evocation",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Force",
+	"Ritual":"No",
+	"Concentration":"Yes",
+	"Description":"You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand. The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space. When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it. Clenched Fist: The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes 4d8 force damage. Forceful Hand: The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it. Grasping Hand: The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier. Interposing Hand: The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target. When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th."
+}
+{
+	"SpellName":"Creation",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fifth",
+	"Casting Time":"1 Minute",
+	"RangeOrArea":"30 ft (5 ft cube)",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: A tiny piece of matter of the same type of the item you plan to create"
+	],
+	"Duration":"Special",
+	"School":"Illusion",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Creation",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before. The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.Vegetable matter | 1 day ] Stone or crystal | 12 hours ] Precious metals | 1 hour ] Gems | 10 minutes ] Adamantine or mithral | 1 minute ]. Using any material created by this spell as another spell's material component causes that spell to fail. When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th."
+}
+{
+	"SpellName":"Greater Restoration",
+	"Classes":[
+		"Artificer"
+	],
+	"Level":"Fifth",
+	"Casting Time":"Action",
+	"RangeOrArea":"Touch",
+	"Components":[
+		"Somatic",
+		"Verbal",
+		"Material: Diamond dust worth at least 100 gp, which the spell consumes"
+	],
+	"Duration":"Instantaneous",
+	"School":"Abjuration",
+	"AttackOrSave":"None",
+	"DamageOrEffect":"Healing",
+	"Ritual":"No",
+	"Concentration":"No",
+	"Description":"You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target: One effect that charmed or petrified the target | One curse, including the target's attunement to a cursed magic item | Any reduction to one of the target's ability scores | One effect reducing the target's hit point maximum"
+}
